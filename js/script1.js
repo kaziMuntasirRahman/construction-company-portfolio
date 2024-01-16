@@ -1,0 +1,1 @@
+var et_animation_data = [{ "class": "et_pb_row_inner_0", "style": "slideTop", "repeat": "once", "duration": "1000ms", "delay": "0ms", "intensity": "10%", "starting_opacity": "0%", "speed_curve": "ease-in-out" }];
